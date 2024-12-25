@@ -1,4 +1,4 @@
-# JuniorMentoringSystem_2024_25
+# Junior_Mentoring_System_2024_25
 |Name| ID |
 | -------- | -------- |
 | Eyerusalem Moges |  UGR/8447/15 | 
