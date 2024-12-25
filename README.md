@@ -1,6 +1,6 @@
 # JuniorMentoringSystem_2024_25
-|Name| ID |github link |
-| -------- | -------- |----------|
+|Name| ID |
+| -------- | -------- |
 | Eyerusalem Moges |  UGR/8447/15 | 
 | Bitanya Aleme| UGR/3502/15 | 
 | Nuhamin Emnebered | UGR/5628/15 |
